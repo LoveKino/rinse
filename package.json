@@ -1,0 +1,29 @@
+{
+  "name": "rinse",
+  "version": "0.0.1",
+  "description": "Store and recovery object scene.",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LoveKino/rinse.git"
+  },
+  "keywords": [
+    "object",
+    "scene",
+    "recovery"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "ddchen",
+    "email": "842914439@qq.com"
+  }
+}
