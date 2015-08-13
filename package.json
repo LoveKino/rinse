@@ -1,11 +1,13 @@
 {
   "name": "rinse",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Store and recovery object scene.",
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "captureobject": "*"
+  },
   "devDependencies": {
     "mocha": "*"
   },
