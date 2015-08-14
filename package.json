@@ -1,6 +1,6 @@
 {
   "name": "rinse",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Store and recovery object scene.",
   "directories": {
     "test": "test"
